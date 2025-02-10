@@ -1,6 +1,6 @@
 // Importar os módulos
 var express = require('express');
-var fetch = require('node-fetch');
+
 
 // App
 var app = express();
