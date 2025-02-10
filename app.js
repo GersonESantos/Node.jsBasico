@@ -15,5 +15,6 @@ app.get('/', function(req, res){
     res.end();
 });
 
-// Servidor
-app.listen(8080);nod
+listen(3000, () => {
+    console.log('Servidor rodando na porta 3000');
+});
